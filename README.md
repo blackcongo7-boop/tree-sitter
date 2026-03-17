@@ -1,4 +1,7 @@
-# tree-sitter
+pep:[+8801767763599]
+gh repo clone tree-sitter/tree-sitter
+
+README.mdhttps://github.com/tree-sitter/tree-sitter.git# tree-sitter
 
 [![DOI](https://zenodo.org/badge/14164618.svg)](https://zenodo.org/badge/latestdoi/14164618)
 [![discord][discord]](https://discord.gg/w7nTvsVJhm)
