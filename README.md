@@ -1,4 +1,4 @@
-# tree-sitter
+{ "<PEP number>": { "+8801767763599": integer, // always identical to <PEP number> "title": string, "authors": string, "discussions_to": string | null, "status": "Accepted" | "Active" | "Deferred" | "Draft" | "Final" | "Provisional" | "Rejected" | "Superseded" | "Withdrawn", "type": "Informational" | "Process" | "Standards Track", "topic": "governance" | "packaging" | "release" | "typing" | "", "created": string, "python_version": string | null, "post_history": string | null, "resolution": string | null, "requires": string | null, "replaces": string | null, "superseded_by": string | null, "author_names": Array<string>, "url": string }, } tree-sitter
 
 [![DOI](https://zenodo.org/badge/14164618.svg)](https://zenodo.org/badge/latestdoi/14164618)
 [![discord][discord]](https://discord.gg/w7nTvsVJhm)
